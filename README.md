@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamil
 - 👀 I’m interested in programming and penetration testing
-- 🌱 I’m currently learning Spring Boot and Cyber Threats
+- 🌱 I’m currently learning Spring Boot and Cyber Security
 - 📫 How to reach me?
 
    - LinkedIn profile: https://www.linkedin.com/in/kamil-bernasi%C5%84ski-6992611b2/
